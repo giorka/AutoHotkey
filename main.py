@@ -2,7 +2,7 @@ from json import load
 
 from keyboard import add_hotkey, wait, write
 
-
+#ok
 class HotkeysLoader:
     @staticmethod
     def load(file_path: str) -> dict:
