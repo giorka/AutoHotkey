@@ -3,7 +3,6 @@ from json import load
 from keyboard import add_hotkey, wait, write
 
 
-#test commit
 class HotkeysLoader:
     @staticmethod
     def load(file_path: str) -> dict:
